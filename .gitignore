@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Databricks
+.databricks/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+logs/
+
+# Build
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary Files
+*.tmp
+*.swp
